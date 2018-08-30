@@ -1,14 +1,7 @@
 package textlink.song.com.textlink;
 
 import android.app.Activity;
-import android.content.ActivityNotFoundException;
-import android.content.Context;
-import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
-import android.provider.Browser;
-import android.text.AutoText;
-import android.text.method.LinkMovementMethod;
 import android.text.util.Linkify;
 import android.util.Log;
 import android.widget.TextView;
